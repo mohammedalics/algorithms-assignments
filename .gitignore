@@ -1,0 +1,25 @@
+## generic files to ignore
+
+*~
+
+*.lock
+
+*.DS_Store
+
+ 
+## Maven
+
+target
+
+ 
+## Eclipse
+
+.settings
+
+*.project
+
+*.classpath
+
+.tern-project
+
+bin
